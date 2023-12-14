@@ -17,6 +17,6 @@ public class MainApp {
                 System.out.print("Deseja realizar outra operação? (S/N): ");
 
 
-        } while (scanner.next().equalsIgnoreCase("S"));//--
+        } while (scanner.next().equalsIgnoreCase("S"));
     }
 }
