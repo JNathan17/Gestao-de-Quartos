@@ -16,11 +16,11 @@ public class MenuQuartos {
 
         System.out.println("\n==== Menu de Operações ====");
         System.out.println("1. Inserir Quarto");
-        System.out.println("2. Alterar status do Quarto");
+        System.out.println("2. Alterar informaçoes do Quarto");
         System.out.println("3. Excluir Quarto");
         System.out.println("4. Duplicar Quarto");
         System.out.println("5. Listar Quartos");
-        System.out.println("6. Gerar Relatório de Quartos");
+        System.out.println("6. Gerar/Atualizar Relatório de Quartos");
         System.out.println("7. Sair");
         System.out.print("Escolha uma opção: ");
         escolha = scanner.nextInt();
