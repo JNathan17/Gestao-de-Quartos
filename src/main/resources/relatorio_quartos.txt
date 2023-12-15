@@ -1,6 +1,0 @@
-ID do Quarto: 1
-Número do Quarto: 2
-Capacidade: 3
-Valor da Hospedagem: 4.0
-Status do Quarto: disponível
-----------------------

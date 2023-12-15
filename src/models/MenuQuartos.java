@@ -48,7 +48,9 @@ public class MenuQuartos {
                 break;
             case 7:
                 System.out.println("Saindo do programa. Até logo!");
-                return;
+                System.exit(0);
+                break;
+
             default:
                 System.out.println("Opção inválida. Tente novamente.");
         }

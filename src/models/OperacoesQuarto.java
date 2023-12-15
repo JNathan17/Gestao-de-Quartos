@@ -165,7 +165,7 @@ public class OperacoesQuarto {
         if (quartos.isEmpty()) {
             System.out.println("Nenhum quarto cadastrado.");
         } else {
-            System.out.println("Lista de Quartos:");
+            System.out.println("\nLista de Quartos:");
             for (Quarto quarto : quartos.values()) {
                 quarto.consultarQuarto();
                 System.out.println("----------------------");
